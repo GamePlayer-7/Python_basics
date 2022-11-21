@@ -9,7 +9,7 @@ class Calculator:
         print(f"qube of the number is: {self.num**3}")
     
     def squarerootofNumber(self):
-        print(f"Suuareroot of the number is: {self.num**0.5}")
+        print(f"Squareroot of the number is: {self.num**0.5}")
 
 number = Calculator(9)
 number.squareofNumber()
