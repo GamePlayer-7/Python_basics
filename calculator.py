@@ -1,5 +1,5 @@
 class Calculator:
-    def __init__(self,num):
+    def __init__(self,num):        # a function is defined using the def keyword
         self.num = num
 
     def squareofNumber(self):
